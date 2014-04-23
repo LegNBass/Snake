@@ -1,0 +1,6 @@
+c:\users\32557\documents\visual studio 2012\Projects\Chase The Star\Chase The Star\bin\Debug\Chase The Star.exe.config
+c:\users\32557\documents\visual studio 2012\Projects\Chase The Star\Chase The Star\bin\Debug\Chase The Star.exe
+c:\users\32557\documents\visual studio 2012\Projects\Chase The Star\Chase The Star\bin\Debug\Chase The Star.pdb
+c:\users\32557\documents\visual studio 2012\Projects\Chase The Star\Chase The Star\obj\Debug\Chase The Star.csprojResolveAssemblyReference.cache
+c:\users\32557\documents\visual studio 2012\Projects\Chase The Star\Chase The Star\obj\Debug\Chase The Star.exe
+c:\users\32557\documents\visual studio 2012\Projects\Chase The Star\Chase The Star\obj\Debug\Chase The Star.pdb
